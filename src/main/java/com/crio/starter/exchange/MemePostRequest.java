@@ -7,6 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 public class MemePostRequest {
+    
   @NotBlank(message = "Name cannot be blank")
   private String name;
   
