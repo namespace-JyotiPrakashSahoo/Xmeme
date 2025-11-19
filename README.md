@@ -29,7 +29,7 @@ This project is built using Java with the Spring Boot framework for the backend 
 
 *   **Backend**: Java, Spring Boot
 *   **Build Tool**: Gradle
-*   **Database**: H2 (In-memory) or MongoDB (depending on configuration)
+*   **Database**: MongoDB
 *   **Code Quality**: Checkstyle with Google Java Style Guide
 
 ## API Endpoints
